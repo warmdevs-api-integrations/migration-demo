@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/events/scheduler/hello.js",
+      "schedule": "0 5 * * *"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "new-project",
+  "author": "kozman",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
